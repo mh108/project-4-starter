@@ -1,5 +1,12 @@
 // jshint esversion: 6
 
+
+//Class Types: Basic syntax
+//https://javascript.info/class
+
+//Class Types: Inheritance
+//https://javascript.info/class-inheritance
+
 class Animal {
   constructor(name) {
     this.speed = 0;
